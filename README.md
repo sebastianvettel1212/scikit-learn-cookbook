@@ -56,7 +56,7 @@ Notebook juga dapat dibuka langsung di **Google Colab** (*File → Open notebook
 
 ## Bab 1 — Common Conventions and API Elements of scikit-learn
 
-📓 [`scikit-learn-Cookbook-Chapter1.ipynb`](notebooks/scikit_learn_Cookbook_Chapter1.ipynb)
+📓 [`scikit-learn-Cookbook-Chapter1.ipynb`](scikit_learn_Cookbook_Chapter1.ipynb)
 
 Bab fondasi: **konvensi dan pola API** yang dipakai hampir semua model scikit-learn. Bab ini tidak memiliki repositori kode terpisah di buku, sehingga seluruh contohnya diambil dari teks buku.
 
@@ -82,7 +82,7 @@ Bab fondasi: **konvensi dan pola API** yang dipakai hampir semua model scikit-le
 
 ## Bab 2 — Pre-Model Workflow and Data Preprocessing
 
-📓 [`scikit-learn-Cookbook-Chapter2.ipynb`](notebooks/scikit_learn_Cookbook_Chapter2.ipynb)
+📓 [`scikit-learn-Cookbook-Chapter2.ipynb`](scikit_learn_Cookbook_Chapter2.ipynb)
 
 *Garbage in, garbage out*: menyiapkan data mentah sebelum pemodelan.
 
@@ -107,7 +107,7 @@ Bab fondasi: **konvensi dan pola API** yang dipakai hampir semua model scikit-le
 
 ## Bab 3 — Dimensionality Reduction Techniques
 
-📓 [`scikit-learn-Cookbook-Chapter3.ipynb`](notebooks/scikit_learn_Cookbook_Chapter3.ipynb)
+📓 [`scikit-learn-Cookbook-Chapter3.ipynb`](scikit_learn_Cookbook_Chapter3.ipynb)
 
 Mengurangi jumlah fitur sambil mempertahankan informasi penting.
 
@@ -132,7 +132,7 @@ Mengurangi jumlah fitur sambil mempertahankan informasi penting.
 
 ## Bab 4 — Building Models with Distance Metrics and Nearest Neighbors
 
-📓 [`scikit-learn-Cookbook-Chapter4.ipynb`](notebooks/scikit_learn_Cookbook_Chapter4.ipynb)
+📓 [`scikit-learn-Cookbook-Chapter4.ipynb`](scikit_learn_Cookbook_Chapter4.ipynb)
 
 Model **KNN**: prediksi dari *k* tetangga terdekat, sehingga hasilnya bergantung pada definisi "jarak".
 
@@ -156,7 +156,7 @@ Model **KNN**: prediksi dari *k* tetangga terdekat, sehingga hasilnya bergantung
 
 ## Bab 5 — Linear Models and Regularization
 
-📓 [`scikit-learn-Cookbook-Chapter5.ipynb`](notebooks/scikit_learn_Cookbook_Chapter5.ipynb)
+📓 [`scikit-learn-Cookbook-Chapter5.ipynb`](scikit_learn_Cookbook_Chapter5.ipynb)
 
 Regresi linear, masalahnya pada data berkorelasi, dan solusi **regularisasi**.
 
