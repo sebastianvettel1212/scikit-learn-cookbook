@@ -56,7 +56,7 @@ Notebook juga dapat dibuka langsung di **Google Colab** (*File → Open notebook
 
 ## Bab 1 — Common Conventions and API Elements of scikit-learn
 
-📓 [`scikit-learn-Cookbook-Chapter1.ipynb`](notebooks/scikit_learn-Cookbook_Chapter1.ipynb)
+📓 [`scikit-learn-Cookbook-Chapter1.ipynb`](notebooks/scikit_learn_Cookbook_Chapter1.ipynb)
 
 Bab fondasi: **konvensi dan pola API** yang dipakai hampir semua model scikit-learn. Bab ini tidak memiliki repositori kode terpisah di buku, sehingga seluruh contohnya diambil dari teks buku.
 
@@ -107,7 +107,7 @@ Bab fondasi: **konvensi dan pola API** yang dipakai hampir semua model scikit-le
 
 ## Bab 3 — Dimensionality Reduction Techniques
 
-📓 [`scikit-learn-Cookbook-Chapter3.ipynb`](notebooks/scikit_learn-Cookbook_Chapter3.ipynb)
+📓 [`scikit-learn-Cookbook-Chapter3.ipynb`](notebooks/scikit_learn_Cookbook_Chapter3.ipynb)
 
 Mengurangi jumlah fitur sambil mempertahankan informasi penting.
 
